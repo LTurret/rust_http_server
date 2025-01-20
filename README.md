@@ -1,2 +1,3 @@
 # rust_http_server
-練習一下
+
+透過把 Python code 轉成 Rust 練習 Rust。
